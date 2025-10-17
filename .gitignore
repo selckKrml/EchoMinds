@@ -1,0 +1,42 @@
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/*.wav
+backend/*.aac
+
+# IDE
+.idea/
+.vscode/
+venv/
+
+# Python cache ve derleme dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Build klasörleri
+build/
+dist/
+*.egg-info/
+
+# OS ve IDE dosyaları
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
